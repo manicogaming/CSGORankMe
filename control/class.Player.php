@@ -191,6 +191,7 @@ class Player {
 		$this->mac10 = $item['mac10'];
 		$this->mp9 = $item['mp9'];
 		$this->mp7 = $item['mp7'];
+		$this->mp5sd = $item['mp5sd'];
 		$this->ump45 = $item['ump45'];
 		$this->p90 = $item['p90'];
 		$this->galilar = $item['galilar'];
